@@ -1,0 +1,20 @@
+{
+  "name": "production_level_backend",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code channel - youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Rishik Puneet M",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.2"
+  }
+}
